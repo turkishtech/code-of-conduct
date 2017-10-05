@@ -1451,6 +1451,19 @@
           "twitter": "_amatellanes"
         }
       ]
+    },
+    {
+      "name": "Turkish Tech Berlin",
+      "city": "Berlin",
+      "country": "Germany",
+      "link": "http://turkishtech.org",
+      "twitter": "turkishtech_eu",
+      "contacts": [
+        {
+          "name": "Hasan Ozdemir",
+          "email": "turkishtechberlin@gmail.com"
+        }
+      ]
     }
   ]
 }
